@@ -1,0 +1,10 @@
+{
+    "IsEncrypted": false,
+    "Values": {
+        "AzureWebJobsStorage": "<storage_account_conn>",
+        "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+        "CONN_DEVICE_1": "<device_conn_1>",
+        "CONN_DEVICE_2": "<device_conn_2>",
+        "CONN_DEVICE_3": "<device_conn_3>"
+    }
+}
